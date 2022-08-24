@@ -1,0 +1,73 @@
+
+header
+{
+   background-image: url(../fonts/fondo1.jpg);
+background-size: cover;
+   background-repeat: no-repeat;
+    position: center;
+   text-align: center;
+   font-size: 20px;
+    
+}
+
+.sobre mi
+{
+   text-align:left;
+color:white;
+font-size: 18px;
+}
+
+.acercade
+{background-image: url(../fonts/fondo1.jpg);
+   color:white;
+text-decoration: underline;
+font-size: 23px;
+text-align: left;
+}
+
+.gustos
+{font-size: 23px;
+   color: white;
+}
+
+
+.p2
+{text-align:left;
+   font-size: 18px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p3
+{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 18px;
+}
+
+h1
+{color:#d3d9db;
+      font-family: 'DynaPuff', cursive;
+font-size: 26px;
+letter-spacing: 10px;
+}
+
+span
+{font-style: italic;
+font-weight: bold;
+}
+
+h2
+{color:#c0c6c9;
+   background-image: url(../fonts/fondo1.jpg);
+   font-size: 16px;
+   font-style: italic;
+}
+
+footer
+{background-image: url(../fonts/fondo1.jpg);
+   background-size: cover;
+color: #ffff;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 28px;
+}
+
